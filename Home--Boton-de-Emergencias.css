@@ -1,0 +1,115 @@
+ .u-section-1 {
+  background-image: url("images/CruzRoja.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 682px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  margin: 204px auto 0 441px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 7em;
+  vertical-align: 0px;
+  padding: 19px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 364px;
+  min-height: 72px;
+  height: auto;
+  margin: 20px auto 60px 364px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 18px -40px 0 13px;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 592px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    border-style: solid;
+    margin-top: 206px;
+    margin-left: 355px;
+    padding: 0 29px 0 28px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 287px;
+    margin-top: 26px;
+    margin-left: 315px;
+    height: auto;
+  }
+
+  .u-section-1 .u-btn-2 {
+    padding: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 544px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 167px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 43px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 521px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 171px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 39px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 522px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 159px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 18px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 22px;
+    margin-left: 27px;
+    margin-right: 27px;
+  }
+}
